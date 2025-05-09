@@ -1,54 +1,70 @@
+# 🚀 Mandipfolio 🔥
 
-## Hypefolio 🔥
+**Mandipfolio** is a sleek, modern, and feature-rich portfolio website crafted to showcase your projects, skills, and creativity in a bold, professional format. Built using HTML, CSS, and JavaScript, it's fully responsive and optimized for both performance and aesthetics.
 
-Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
-## Demo
+---
 
-https://harisahmad.netlify.app
+## 🔗 Live Demo
 
+🌐 [View My Portfolio](https://mandee.com.np)
 
-## Features
+---
 
-- Easy to Setup 💯
-- Free to Use ( OpenSource ) 🥳
-- Multi Page 💎
-- Fully Responsive 🚀
-- Super Fast and Optimized for SEO ⚡
-- Dark/Light Toggle Modes 🤘
+## ✨ Features
 
+- ⚡ **Fast & Lightweight**
+- 💯 **Easy to Customize**
+- 💻 **Multi-Page Layout**
+- 📱 **Responsive Design**
+- 🌙 **Dark/Light Mode Toggle**
+- 🆓 **Free & Open Source**
+- 🚀 **SEO Optimized**
 
+---
 
+## 👨‍💻 About Me
 
-## 🚀 About Me
-Hello, I'm Haris Ahmad, the visionary mind behind Hypefolio – a groundbreaking open-source portfolio website. Dive into the world of coding excellence with Hypefolio's freely available source code, empowering anyone to craft their digital showcase effortlessly. 🌐✨
+Hi! I'm **Mandip Chaudhary** — a passionate **Full Stack Developer**, **Video Editor**, **Graphics Designer**, **Photographer**, and **Multilingual Coder**.  
 
-Connect with me on LinkedIn to stay in the loop with my professional journey and discover insights into the evolving tech landscape.
+**Mandipfolio** is my open-source portfolio template designed to help creatives and coders build a strong digital presence with ease. I’m driven by design, functionality, and storytelling through code and visuals.
 
-My Linkedin: https://www.linkedin.com/in/harisahmad59
+📫 **Email:**
+🔗 [LinkedIn](https://www.linkedin.com/in/mandipchaudhary/)  
+📸 [Instagram](https://www.instagram.com/mandytharuzz/)
 
-Your journey doesn't stop there! Join me on Instagram for a closer look at my content, where I share coding tips, project highlights, and more. Don't miss out – your coding adventure awaits! 🔍💡 
+Let’s connect and grow together 🚀
 
-Instagram: https://www.instagram.com/codehype_/
+---
 
+## 🛠 Tech Stack
 
-## Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
 
-- HTML 🚀
-- CSS 🚀
-- JavaScript 🚀
-## How To Use
+---
 
-```
-# Clone this repository
-$ git clone https://github.com/harisahmad59/Hypefolio
+## 🚀 Getting Started
 
-# Go into the repository
-$ cd Hypefolio
+```bash
+# Clone the repository
+$ git clone https://github.com/yourusername/mandipfolio
 
-# Remove current origin repository
+# Navigate into the project folder
+$ cd mandipfolio
+
+# Remove the existing Git origin
 $ git remote remove origin
-```
-then open the index.html inside your favorite browser or using the live server extension. Use this source code to create your own hypefolio portfolio website.
-## Give a Star ⭐
 
-If you like this project then give it a Github star by pressing the Star button ⭐
+mandipfolio/
+│
+├── assets/          # Images, icons, etc.
+├── css/             # Stylesheets
+├── js/              # JavaScript files
+├── index.html       # Home page
+├── about.html       # About page
+├── projects.html    # Projects page
+└── contact.html     # Contact page
+#portfolio #webdev #html #css #javascript #frontend #fullstack #opensource #mandipfolio
+
+Would you like a custom **badge section** (like GitHub Stars, Netlify deploy status, or "Made with ❤️ by Mandip Chaudhary") added at the top too? I can create that next!
